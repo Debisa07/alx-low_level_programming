@@ -1,3 +1,2 @@
-# alx-low_level_programming
- 0x00. C - Hello, World
-# 0x00. C - Hello, World
+#!/bin/bash
+This repo is the working directory for this project.
