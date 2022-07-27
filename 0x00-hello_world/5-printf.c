@@ -1,9 +1,10 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
- * main - Entry point
+ * main - run the main function
  *
- * Return: Always 0 (Success)
+ * Description: Runs printf and print statement
+ * Return: Return 0 to exit
  */
 int main(void)
 {
