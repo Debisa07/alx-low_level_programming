@@ -1,11 +1,10 @@
-#include<stdio.h>
-
+#include <stdio.h>
 /**
- * main - run the main function
- *
- * Description: Runs printf and print statement
- * Return: Return 0 to exit
- */
+*main - Main function
+*
+*
+*Return: return 0 everytime
+*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
