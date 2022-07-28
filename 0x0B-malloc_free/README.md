@@ -1,2 +1,1 @@
-# the purpose of Malloc
-<h4>Allocate memory using malloc at run time</h4>
+malloc - its a space created on the memory during declaration of variables in c programming 
