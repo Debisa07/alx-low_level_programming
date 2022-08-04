@@ -1,14 +1,13 @@
 #include "holberton.h"
-
 /**
- * _puts - prints string
- * @str: input string
- * Return: no return
+ * _puts - Check if a number is greater than 0
+ * @str: The number to be checked
  */
-
 void _puts(char *str)
 {
-	while (*str != '\0')
+	int i;
+
+	for (i = 0; *str != '\0'; i++)
 	{
 		_putchar(*str);
 		str++;
