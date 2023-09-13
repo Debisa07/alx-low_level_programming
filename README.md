@@ -1,2 +1,1 @@
-#!/bin/bash
-This repo is the working directory for this project.
+0x09. C - Static libraries
